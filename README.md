@@ -26,8 +26,11 @@
 </div>
 <br>
 
+<div align= "center">
+    <p "><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishsharma2004&theme=dracula&hide" alt="manishsharma2004" /></p><br>
+</div>
 
-<p style="background-color: black;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishsharma2004&" alt="manishsharma2004" /></p><br>
+
 
 ###
 <div align="center">
