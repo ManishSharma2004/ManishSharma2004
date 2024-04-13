@@ -25,3 +25,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishsharma2004&show_icons=true&locale=en" alt="manishsharma2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishsharma2004&" alt="manishsharma2004" /></p>
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ManishSharma2004/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ManishSharma2004/ManishSharma2004/output/snake.svg" alt="Snake animation" />
+
+###
